@@ -1,4 +1,4 @@
-#docs-
+#docs
 # Entregable — Semana 1
 
 ## 1. Ficha de Idea de Producto
